@@ -1,0 +1,9 @@
+# Used for installing all those packages on the server that are important
+# for this project.
+scipy~=1.14.0
+streamlit~=1.37.1
+pandas~=2.2.2
+plotly~=5.23.0
+matplotlib~=3.9.1.post1
+seaborn~=0.13.2
+numpy~=2.0.1
